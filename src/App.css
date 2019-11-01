@@ -1,0 +1,72 @@
+.circle-size{
+  font-size: 20px !important;
+}
+
+.nav-direction{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-direction div.rsw_2Y {
+  overflow-x: hidden;
+  width: 100%;
+  padding-top: 3rem;
+  padding-bottom: 80px;
+}
+
+div.rsw_2Y{
+  background: #fff;
+}
+
+div.rsw_2f{
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+ul{
+  padding-top:50px;
+}
+
+li{
+  padding-left:100px;
+}
+
+.vertical-line{
+  width: 1px;
+  background-color: black;
+  height: 40px;
+  float: left;
+  margin-left: 20px;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+.sidebar {
+  width: 290px !important;
+  min-height: 100vh;
+}
+
+.div-height{
+  height:500px;
+}
+
+.pie{
+  height: 300px;
+}
+
+.vertical-center {
+  min-height: 100%; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
+
+.card-body-border{
+  border-left: 1px dashed gainsboro;
+}
+
